@@ -1,0 +1,202 @@
+* {
+	padding: 0;
+	margin: 0;
+    border: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 970px;
+    margin: 0 auto;
+}
+/* ######### Header Styling ######### */
+.header {
+    min-height: 100px; 
+}
+.header h2 {
+    color: #ffffff;
+    background: #23669e;
+    padding: 10px;
+}
+.header img {
+    width: 80px;
+    margin-bottom: -25px;
+}
+
+/* ######### Main Section Styling ######### */
+.main_section {
+    width: 700px;
+    margin-left: 40px;
+    vertical-align: top;
+    min-height: 550px;
+    display: inline-block;
+}
+.main_section li {
+    margin-left: 40px;
+}
+.main_section h2 {
+    color: #22659e;
+}
+
+/* ######### Main TOP Styling ######### */
+.main_top a {
+    text-decoration: none;
+    color: #22659e;
+}
+.house_and_link {
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.house_and_link img {
+    width: 20px;
+}
+.contact_section {
+    width: 285px;
+    display: inline-block;
+    margin-left: 310px;
+    margin-bottom: 10px;
+}
+.contact_info {
+    width: 222px;
+    display: inline-block;
+}
+.contact_info span {
+    color: #00c0df;
+    font-size: 36px;
+    font-weight: bold;
+}
+.contact_section img {
+    width: 55px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.contact_section p {
+    text-align: right;
+}
+
+/* ######### Main MIDDLE Styling ######### */
+.main_middle {
+    border-top: 1px solid #474747;
+}
+.main_middle span {
+    color: #13a0b5;
+}
+.main_middle .bold {
+    font-weight: bold;
+    color: black;
+}
+.main_middle img {
+    width: 300px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* ######### Main BOTTOM Styling ######### */
+.main_bottom {
+    margin-top: 20px;
+    border-left: 5px solid #0085e0;
+    border-top: 5px solid #0085e0;
+    border-right: 5px solid #0085e0;
+    padding-bottom: 9px;
+}
+.bottom_content {
+    width: 500px;
+    display: inline-block;
+}
+.main_bottom .italic {
+    font-style: oblique;
+}
+.main_bottom img {
+    width: 100px;
+    display: inline-block;
+}
+.main_bottom a {
+    text-decoration: none;
+    color: #13a0b5;
+}
+
+/* ######### Sidebar Styling ######### */
+.sidebar {
+    width: 225px;
+    min-height: 400px;
+    display: inline-block;
+}
+.sidebar_top {
+    border-bottom: 1px solid #474747;
+    margin-top: 25px;
+    margin-left: 1px;
+}
+.sidebar_bottom {
+    margin-top: 25px;
+    padding-bottom: 25px;
+    background-image: url("images/ad_background.png");
+    background-position: center;
+    background-size: cover;
+}
+.sidebar_bottom p {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: -10px;
+}
+.sidebar_bottom a {
+    margin: 0 auto;
+}
+.sidebar img {
+    width: 80px;
+    margin: 0 auto;
+    padding: 10px;
+    display: block;
+}
+.button_aqua {
+    width: 170px;
+    display: block;
+    background-color: #42cadf;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+.button_blue {
+    width: 185px;
+    display: block;
+    background-color: #23669e;
+    text-align: center;
+    margin: 5px;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+.button_orange {
+    width: 185px;
+    display: block;
+    background-color: #ef7f00;
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 25px;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+/* ######### EXTRAS ######### */
+h1 {
+    color: #474747;
+    display: inline-block;
+}
+
+h4 {
+    margin: 5px;
+}
+.blue_text {
+    color: #22659e;
+}
+.red_text {
+    color: #d9231c;
+}
